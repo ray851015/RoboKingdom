@@ -1,12 +1,15 @@
 import React from "react";
+import "./SearchBox.css";
 
 const SearchBox = ({ searchChange }) => {
   return (
-    <div>
-      <input type="search"
-       placeholder="type in robots name"
-       onChange={searchChange}
-       />
+    <div className="searchBox">
+      <input
+        className="searchBox__input"
+        type="search"
+        placeholder="type in robots name"
+        onChange={searchChange}
+      />
     </div>
   );
 };
