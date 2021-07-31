@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RoboKingdom/static/css/main.feb2ae9e.chunk.css",
+    "main.js": "/RoboKingdom/static/js/main.34265353.chunk.js",
+    "main.js.map": "/RoboKingdom/static/js/main.34265353.chunk.js.map",
+    "runtime-main.js": "/RoboKingdom/static/js/runtime-main.2d53ee27.js",
+    "runtime-main.js.map": "/RoboKingdom/static/js/runtime-main.2d53ee27.js.map",
+    "static/js/2.414d098c.chunk.js": "/RoboKingdom/static/js/2.414d098c.chunk.js",
+    "static/js/2.414d098c.chunk.js.map": "/RoboKingdom/static/js/2.414d098c.chunk.js.map",
+    "static/js/3.0f4a524b.chunk.js": "/RoboKingdom/static/js/3.0f4a524b.chunk.js",
+    "static/js/3.0f4a524b.chunk.js.map": "/RoboKingdom/static/js/3.0f4a524b.chunk.js.map",
+    "index.html": "/RoboKingdom/index.html",
+    "static/css/main.feb2ae9e.chunk.css.map": "/RoboKingdom/static/css/main.feb2ae9e.chunk.css.map",
+    "static/js/2.414d098c.chunk.js.LICENSE.txt": "/RoboKingdom/static/js/2.414d098c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RoboKingdom/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d53ee27.js",
+    "static/js/2.414d098c.chunk.js",
+    "static/css/main.feb2ae9e.chunk.css",
+    "static/js/main.34265353.chunk.js"
+  ]
+}
